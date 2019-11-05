@@ -1,0 +1,12 @@
+Install-Package Microsoft.AspNet.WebApi.OwinSelfHost
+Install-Package Microsoft.Owin.Security.OAuth
+
+Install-Package Microsoft.Owin.Hosting		（OLiOSoft.OSelfhosted.OServerCore 中需要）
+Install-Package Microsoft.Owin.Host.HttpListener			（与上边的配套）
+
+
+Install-Package Microsoft.Owin.SelfHost
+
+OLiOSoft
+
+http://localhost:9000
